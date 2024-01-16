@@ -1,4 +1,8 @@
 dsf123
 Пщщвину
 sdfsdfsdf
+<<<<<<< HEAD
 Goof morning (adf1)
+=======
+File1 changed in FirrstRepository
+>>>>>>> ff2ea50c17aa8930edd65ad3109d24e68aebb7be

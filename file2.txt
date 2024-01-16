@@ -1,3 +1,4 @@
 Goodbye!
 Some other string
 File from user 2
+File changed FromUser2
